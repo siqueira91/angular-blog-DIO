@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #111111;
+    background-image: "https://t4.ftcdn.net/jpg/02/04/58/57/360_F_204585727_W9mjxo86jTY1SOGZdFgFUxJi60pKlzJ7.jpg";
+    color: white;
+    font-family: 'Lucida Sans';
+}
+
+a{
+  text-decoration: none;  
+}
